@@ -4,7 +4,7 @@ Team solution to MCM/ICM 2022 Problem C - Trading Strategies
 
 ## Team members
 Yutian Mei UESTC  
-Jiayu Wang UESTC
+Jiayu Wang UESTC  
 Peisong Zhang UESTC
 
 ## Summary
